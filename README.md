@@ -175,3 +175,7 @@ const genUid = () => {  
 
 genUid.soup_ = '!#$%()*+,-./:;=?@[]^_`{|}~ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'genUid() // ;l`yCPc9A8IuK}?N6,%}
 ```
+
+
+## 参考文档
+- [js容易忘记的操作](https://github.com/17764092501/js-always-forget-operation)
