@@ -1,0 +1,22 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "> some utils and skills for javascript",
+  "main": "index.js",
+  "scripts": {
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swiftwind0405/js-utils.git"
+  },
+  "author": "Stanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swiftwind0405/js-utils/issues"
+  },
+  "homepage": "https://github.com/swiftwind0405/js-utils#readme",
+  "dependencies": {
+    "conventional-changelog-cli": "^2.1.1"
+  }
+}
