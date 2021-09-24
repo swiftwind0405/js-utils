@@ -4,9 +4,8 @@
   "description": "> some utils and skills for javascript",
   "main": "index.js",
   "scripts": {
-    "preversion": "npm-version",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
-    "postversion": "git push && git push --tags && rm -rf build/temp"
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
